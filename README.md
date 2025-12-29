@@ -1,1 +1,1 @@
-# soalco-politica-privacidad
+# rentix-privacy
